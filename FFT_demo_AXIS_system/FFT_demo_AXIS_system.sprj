@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="FFT_demo_AXIS_system" platform="C:/Users/jbm/Desktop/mat_pedago/s4e_projet/S4e-AXIS_2020/S4e-AXIS_2020.Vitis/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" sysConfig="design_1_wrapper" runtime="cpp" rootFSLocation="" linuxImage="" sysroot="">
+  <configuration name="Debug" id="com.xilinx.sdx.system.managedbuilder.debugConfiguration.819693571">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="FFT_demo_AXIS" domainName="standalone_microblaze_0" domainPrettyName="standalone_microblaze_0" appBuildConfig="Debug"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+  </configuration>
+  <configuration name="Release" id="com.xilinx.sdx.system.managedbuilder.releaseConfiguration.124587202">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="FFT_demo_AXIS" domainName="standalone_microblaze_0" domainPrettyName="standalone_microblaze_0" appBuildConfig="Release"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>

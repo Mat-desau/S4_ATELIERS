@@ -1,0 +1,29 @@
+{
+  "version": "2020.2",
+  "applications": [],
+  "platforms": [
+    {
+      "name": "design_1_wrapper"
+    }
+  ],
+  "systems": [
+    {
+      "name": "FFT_demo_AXIS_system",
+      "platform": "C:/Users/jbm/Desktop/mat_pedago/s4e_projet/S4e-AXIS_2020/S4e-AXIS_2020.Vitis/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm",
+      "sysConfig": "design_1_wrapper",
+      "buildConfig": "Debug",
+      "applications": [
+        {
+          "name": "FFT_demo_AXIS",
+          "platform": "C:/Users/jbm/Desktop/mat_pedago/s4e_projet/S4e-AXIS_2020/S4e-AXIS_2020.Vitis/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm",
+          "platformPath": "C:\\Users\\jbm\\Desktop\\mat_pedago\\s4e_projet\\S4e-AXIS_2020\\S4e-AXIS_2020.Vitis\\design_1_wrapper\\export\\design_1_wrapper",
+          "sysConfig": "design_1_wrapper",
+          "domain": "standalone_microblaze_0",
+          "system": "FFT_demo_AXIS_system"
+        }
+      ],
+      "platformPath": "C:\\Users\\jbm\\Desktop\\mat_pedago\\s4e_projet\\S4e-AXIS_2020\\S4e-AXIS_2020.Vitis\\design_1_wrapper\\export\\design_1_wrapper"
+    }
+  ],
+  "others": []
+}

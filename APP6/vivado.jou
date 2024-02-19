@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Mar 28 15:16:03 2021
+# Process ID: 17572
+# Current directory: C:/Users/jbm/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23812
+# Log file: C:/Users/jbm/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/jbm/AppData/Roaming/Xilinx/Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/jbm/Desktop/mat_pedago/s4e_projet/S4e-AXIS_2020/APP6.xpr
+update_compile_order -fileset sources_1
+archive_project C:/Users/jbm/Desktop/mat_pedago/s4e_projet/S4e-AXIS_2020/example_fft_axi_stream.vivado_archive.28.03.2021.xpr.zip -temp_dir C:/Users/jbm/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-17572-Bougalou -force -include_local_ip_cache -include_config_settings
