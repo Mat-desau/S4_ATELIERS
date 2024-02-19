@@ -1,0 +1,4 @@
+Running: xsim.dir/circuit_half_adder_behav/xsimk.exe -simmode gui -wdb circuit_half_adder_behav.wdb -simrunnum 0 -socket 55842
+Design successfully loaded
+Design Loading Memory Usage: 6356 KB (Peak: 6356 KB)
+Design Loading CPU Usage: 46 ms
